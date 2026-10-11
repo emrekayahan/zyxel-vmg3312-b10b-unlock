@@ -1,0 +1,16 @@
+# Binaries & archives
+*.zip
+*.exe
+cookie.txt
+pnp.txt
+_js_*.js
+
+# Tool directories
+AsProgrammer/
+drivers/
+python-lzw-extracted/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
